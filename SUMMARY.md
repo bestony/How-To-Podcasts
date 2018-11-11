@@ -6,7 +6,7 @@
     * [必要的录音设备](before/hardware.md)
     * [必要的软件](before/software.md)
 * 开始录音
-    * 如何选择录音环境
+    * [如何选择录音环境](start/env.md)
     * 开始录音
     * 声音的简单处理
 * 发布播客
