@@ -12,4 +12,5 @@
 * 发布播客
     * [独立播客还是平台播客](after/platform.md)
     * [发布你的播客](after/publish.md)
+    * [推广你的播客](after/search-optimize.md)
     * [采集听众反馈](after/feedback.md)
